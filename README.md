@@ -23,3 +23,4 @@ MAPBOX_TOKEN=HERE TOKEN CREATED ON MAPBOX SITE
 ```
 
 9. In the terminal run `node app.js`
+10. Go to `http://localhost:3000/`
